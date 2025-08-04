@@ -1,6 +1,6 @@
-- 👋 Hi, I’m  cat @kyros
+- 👋 Hi, I’m  cat @catkyros
 - 👀 I’m interested in a lot of stuff
-- 🌱 I’m currently learning GOLANG
+- 🌱 I’m currently learning GOLANG && AI Stuff
 - 💞️ I’m looking to collaborate on any side-project using Golang stack
 - 📫 Feel free to reach me via telegram https://t.me/kyros2024
 - 😄 Pronouns: he/him
